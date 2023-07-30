@@ -1,0 +1,5 @@
+# Exclude the below folders and files:
+.vs
+bin
+obj
+packages
